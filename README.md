@@ -1,2 +1,4 @@
-# registrationForm
-A simple registration form project built with HTML, CSS and JavaScript. 
+- The name of this project is registrationForm.
+- This project consists a form in which you are able to enter your data and create account for an imaginary website. 
+- If you make mistake while entering your data or miss any field, you will be informed where you made mistake / what you missed (after clicking the "sign up" button).
+- Project was made using JavaScript.
